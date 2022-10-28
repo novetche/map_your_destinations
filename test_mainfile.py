@@ -1,5 +1,5 @@
 import pytest
-from project import get_locations_names, get_mapstyle_from_user, get_city_geodata
+from map_from_database import get_locations_names, get_mapstyle_from_user, get_city_geodata
 
 def test_get_locations_names():
     with pytest.raises(Exception):
