@@ -18,6 +18,7 @@ The plan was:
 - the V4 could allow recommendations to be made to the user based on their visited places
 - V5 to add images
 etc.
+
 I have developed this program to the V3 stage for the final test of the course CS50 Python from Harvard University and I hope you will like it.
 
 ### User story
